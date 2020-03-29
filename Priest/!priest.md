@@ -28,3 +28,6 @@
 -Penance
 -Renew
 -Shield
+
+
+spirit, shield, sf, penance, mending, lesser, innerfire, holyfire, fortitude, desperate, reag, drink
