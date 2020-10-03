@@ -10,8 +10,9 @@ Weakaura Repository
 
 # Naming Conventions 
 `!` Command  
-`*` PvP Related  
-`+` PvE / Raid Related  
-`--` Eat/Drink/Reagents  
-`-` General  
+`*` General PvP 
+`*` General PvE 
+`+` Specific Raid
+`-` General Combat
+`-` Resting  
 `<classKey>`\` Class Specific  
