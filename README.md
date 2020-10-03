@@ -9,10 +9,10 @@ Weakaura Repository
 4- Paste ingame import screen  
 
 # Naming Conventions 
-`!` Command  
-`*` General PvP 
-`*` General PvE 
-`+` Specific Raid
+`! ` Command  
+`!! ` Specific Raid
+`+` General PvP 
+`+` General PvE 
 `-` General Combat
 `-` Resting  
 `<classKey>`\` Class Specific  
