@@ -4,6 +4,7 @@
 # Todo
 
 # Completed
+10-Oct-2020 pvp1.2, raid1.8, icc1.9
 05-Oct-2020 icc1.6, raid1.7
 04-Oct-2020 raids/ icc 1.2
 04-Oct-2020 mage; mana gems fixed
