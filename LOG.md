@@ -4,6 +4,7 @@
 # Todo
 
 # Completed
+05-Nov-2020 raid2.1, combat1.6, resting1.5
 01-Nov-2020 Raid2.0, Resting1.2
 10-Oct-2020 pvp1.2, raid1.8, icc1.9
 05-Oct-2020 icc1.6, raid1.7
