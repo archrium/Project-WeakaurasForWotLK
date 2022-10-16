@@ -3,7 +3,8 @@
 
 # Todo
 
-# Completed
+# Log
+16-Oct-2022 2.0     arch: version split; mage auras for woltk classic
 05-Nov-2020 raid2.1, combat1.6, resting1.5
 01-Nov-2020 Raid2.0, Resting1.2
 10-Oct-2020 pvp1.2, raid1.8, icc1.9
