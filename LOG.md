@@ -4,6 +4,7 @@
 # Todo
 
 # Log
+- 28-Oct-2022 2.2   add: added hunter wa all 3.4.x
 27-Oct-2022 2.1     upt: added hunter wa's to 3.4.x
 16-Oct-2022 2.0     arch: version split; mage auras for woltk classic
 05-Nov-2020 raid2.1, combat1.6, resting1.5
