@@ -4,6 +4,7 @@
 # Todo
 
 # Log
+- 02-Feb-2023 2.21  add: Melee range check (2yrd)
 - 28-Oct-2022 2.2   add: added hunter wa all 3.4.x
 27-Oct-2022 2.1     upt: added hunter wa's to 3.4.x
 16-Oct-2022 2.0     arch: version split; mage auras for woltk classic
